@@ -1,5 +1,23 @@
 # @powersync/service-module-postgres
 
+## 0.20.0
+
+### Minor Changes
+
+- e2bf1ad: [Internal] rework resolveTables to handle multiple SourceTables.
+
+### Patch Changes
+
+- Updated dependencies [99d33d5]
+- Updated dependencies [cae92ce]
+- Updated dependencies [5b1b215]
+- Updated dependencies [e2bf1ad]
+  - @powersync/lib-services-framework@0.9.5
+  - @powersync/service-core@1.22.0
+  - @powersync/service-sync-rules@0.37.0
+  - @powersync/lib-service-postgres@0.4.28
+  - @powersync/service-jpgwire@0.21.19
+
 ## 0.19.5
 
 ### Patch Changes

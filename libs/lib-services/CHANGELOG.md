@@ -1,5 +1,15 @@
 # @powersync/lib-services-framework
 
+## 0.9.5
+
+### Patch Changes
+
+- 99d33d5: Normalize socket addresses to bare hostnames before IP-range validation, so direct-IP literals with any port form are recognized as IPs.
+- Updated dependencies [cae92ce]
+- Updated dependencies [5b1b215]
+- Updated dependencies [e2bf1ad]
+  - @powersync/service-sync-rules@0.37.0
+
 ## 0.9.4
 
 ### Patch Changes

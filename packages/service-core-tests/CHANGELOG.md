@@ -1,5 +1,20 @@
 # @powersync/service-core-tests
 
+## 0.16.0
+
+### Minor Changes
+
+- e2bf1ad: [Internal] rework resolveTables to handle multiple SourceTables.
+
+### Patch Changes
+
+- Updated dependencies [99d33d5]
+- Updated dependencies [cae92ce]
+- Updated dependencies [5b1b215]
+- Updated dependencies [e2bf1ad]
+  - @powersync/service-core@1.22.0
+  - @powersync/service-sync-rules@0.37.0
+
 ## 0.15.5
 
 ### Patch Changes
